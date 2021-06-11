@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Faith.
 - 👀 I’m interested in medical natural language processing, deep learning, machine learning, and health informatics.
-- 🌱 I’m currently learning medical information extraction.
+- 🌱 I’m working on information extraction from biomedical texts.
 <!---- 💞️ I’m looking to collaborate on ...--->
 <!---- 📫 How to reach me ...--->
 
